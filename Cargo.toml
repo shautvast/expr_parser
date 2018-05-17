@@ -1,0 +1,6 @@
+[package]
+name = "ExpressionParser"
+version = "0.1.0"
+authors = ["Sander Hautvast <shautvast@ilionx.com>"]
+
+[dependencies]
